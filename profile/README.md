@@ -1,7 +1,7 @@
 # 🛡️ CodeGrounder
 
-> **Stop AI Hallucinations in Your Laravel Code**  
-> The only tool that validates if AI-generated Laravel code actually works in YOUR project context.
+> **AI Generates. CodeGrounder Validates. You Deploy Confidently.**  
+> Stop shipping Laravel code that looks good but breaks in production.
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue.svg)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-9.0%2B-red.svg)](https://laravel.com/)
